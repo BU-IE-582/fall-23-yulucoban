@@ -2,4 +2,4 @@
 
 ## Homework 0 
 
-[Here](files/IE_582_Homework1_Yusuf_Ulucoban.html) is my homework 1, also the the [.ipnyb](files/IE_582_Homework1_Yusuf_Ulucoban) file is avaliable.
+[Here](files/IE_582_Homework1_Yusuf_Ulucoban.html) is my homework 1, also the the [.ipnyb](files/IE_582_Homework1_Yusuf_Ulucoban.ipynb) file is avaliable.
